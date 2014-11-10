@@ -16,6 +16,8 @@ public:
     int isqrt(int n) {
         int i=n;
         int s=1;
+        if(n < 1)
+            return n;
         if(i>65535)
         {
            s += 8;
