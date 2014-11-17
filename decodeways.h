@@ -12,7 +12,7 @@
 public:
     int numDecodings(string s) {
          if(s.length() == 0)
-            return 1;
+            return 0;
 
           int position;
           int cache0=1,cache1=0,cache2=0;
