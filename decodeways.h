@@ -1,7 +1,7 @@
 /*
  Author:     JIFANG FAN
  Date:       Nov 17, 2014
- Problem:    Sqrt(n)
+ Problem:    numDecodings
  Source:     https://oj.leetcode.com/problems/decode-ways/
  Notes:
  Implement decode ways solution
